@@ -1,0 +1,12 @@
+{
+  "name": "grunt-heroku-env",
+  "description": "Converts the files heroku places in ENV_DIR during the compilation step into process.env key value pairs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/pwmckenna/grunt-heroku-env",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-env": "^0.4.1"
+  }
+}
