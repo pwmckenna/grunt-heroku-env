@@ -18,4 +18,5 @@ module.exports = function (grunt) {
         }
     });
     grunt.registerTask('test', ['env:test', 'heroku-env', 'print-env']);
+    grunt.registerTask('heroku', ['heroku-env', 'print-env']);
 };
