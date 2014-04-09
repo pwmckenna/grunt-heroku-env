@@ -6,7 +6,6 @@
   "dependencies": {},
   "devDependencies": {
     "grunt": "^0.4.4",
-    "grunt-contrib-jshint": "^0.10.0",
     "grunt-env": "^0.4.1"
   }
 }
