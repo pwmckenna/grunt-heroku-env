@@ -1,7 +1,7 @@
 grunt-heroku-env
 ================
 
-Heroku stores your app environment variables in individual files in ENV_DIR during the slug compilation step. Run this task to pull the heroku environment variables into `process.env`.
+Heroku stores your app environment variables in individual files in `ENV_DIR` during the slug compilation step. Run this task to pull the heroku environment variables into `process.env`.
 
 # Getting Started
 
