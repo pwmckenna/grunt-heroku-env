@@ -3,6 +3,26 @@
   "description": "Converts the files heroku places in ENV_DIR during the compilation step into process.env key value pairs",
   "version": "0.0.1",
   "homepage": "https://github.com/pwmckenna/grunt-heroku-env",
+  "author": {
+    "name": "Patrick Williams",
+    "email": "pwmckenna@gmail.com",
+    "url": "http://pwmckenna.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pwmckenna/grunt-heroku-env.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pwmckenna/grunt-heroku-env/issues"
+  },
+  "keywords": [
+    "ENV_DIR",
+    "user-env-compile",
+    "heroku",
+    "gruntplugin",
+    "env",
+    "deployment"
+  ],
   "dependencies": {},
   "devDependencies": {
     "grunt": "^0.4.4",
